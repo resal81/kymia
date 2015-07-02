@@ -1,6 +1,6 @@
 import pytest
 
-from .atom import Atom, ImmutableProperty
+from kymia.blocks.atom import Atom, ImmutableProperty
 
 
 def test_atom_creation():
